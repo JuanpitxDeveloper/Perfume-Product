@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {font-family: 'Montserrat', 'Fraunces';
+font-size: 14px;
+
+
+}
+h1 {
+    font-family: 'Fraunces';
+
+}
+
+h3{
+    font-family: 'Fraunces';
+    font-size: 13px
+}
+strike {
+    font-family: 'Montserrat';
+    font-size: 13px;
+}
